@@ -16,4 +16,6 @@ This is created steps on git
 
 This is my new changes 2
 
-This is day 2 in git hub 
+This is day 2 in git hub
+
+thank you continue with git hub 
